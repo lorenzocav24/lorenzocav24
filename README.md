@@ -20,14 +20,20 @@ Dashboard used daily by warehouse staff to track equipment, inventory, incoming 
 - AI agent that texts 100+ technicians and automatically schedules equipment pickups before each service
 - Designed alongside the warehouse team and iterated on their feedback
 
+## In Progress (finishing Winter 2026–27)
+
 ### Restock & Inventory Tracker
-Connected to the warehouse dashboard. Tracks materials as they're packaged for jobs and flags low stock with a one-click reorder button, so supplies get reordered before they run out.
+Extension of the warehouse dashboard that tracks materials as they're packaged for jobs.
+- Flags low stock with a reorder button; one click and a confirmation automatically places the order with the warehouse
 
 ### Proposal & Quote Generator
-Automatically generates client proposals and prices each job from the company's material costs, replacing manual quoting.
+Generates client proposals automatically, pricing each job from the company's material costs.
+- Outputs a ready-to-send PDF, replacing manual quoting
 
-### Technician Training Course
-Interactive onboarding course for all new technicians, covering company rules and guidelines.
+### Technician Training & Certification Course
+Interactive onboarding course for new technicians covering company rules and guidelines.
+- Videos, quizzes, and sign-offs, with a required passing score before a technician is cleared to work
+
 
 *These repositories are private because they contain company data. Happy to walk through the architecture and code in an interview.*
 

@@ -20,7 +20,7 @@ Dashboard used daily by warehouse staff to track equipment, inventory, incoming 
 - AI agent that texts 100+ technicians and automatically schedules equipment pickups before each service
 - Designed alongside the warehouse team and iterated on their feedback
 
-## In Progress (finishing Winter 2026–27)
+## In Progress 
 
 ### Restock & Inventory Tracker
 Extension of the warehouse dashboard that tracks materials as they're packaged for jobs.
